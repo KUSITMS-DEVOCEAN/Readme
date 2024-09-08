@@ -61,7 +61,8 @@
 **→ 활동의 질, 활동의 양, 활동 카테고리를 대시보드를 활용해 한눈에 시각화**
 
 ### 1. 커뮤니티 활동 캘린더<br>
-![image](https://github.com/user-attachments/assets/246f746e-5994-4c0d-9c4b-bc014bf2f9c2)<br>
+<img src="https://github.com/user-attachments/assets/246f746e-5994-4c0d-9c4b-bc014bf2f9c2"  width="300"/><br>
+
 활동 대시보드_커뮤니티 활동 캘린더
 
 📌 **기능 정의**
@@ -88,7 +89,8 @@
 📌 [Reference](https://acidic-buffer-cde.notion.site/Reference-30c2453394c14f66b0eb27990232ec37?pvs=4)
 
 ### 2. 이번달 읽은 블로그 <br>
-![image](https://github.com/user-attachments/assets/6b81c4ee-09d5-4836-8610-c0ffda99bd1b)<br>
+<img src="https://github.com/user-attachments/assets/6b81c4ee-09d5-4836-8610-c0ffda99bd1b"  width="300"/><br>
+<br>
 활동 대시보드_이번 달 읽은 블로그
 
 📌 **기능 정의**
@@ -113,8 +115,9 @@
 - 사용자가 자신의 활동량에서 더 나아가 **데보션에서 어떤 게시글을 읽고 있는 지** 실시간으로 조회할 수 있도록 함
 
 ### 3. 커뮤니티 랭킹<br>
-![image](https://github.com/user-attachments/assets/2d6bd6f3-2620-4782-9958-2451f397453d)<br>
-활동 대시보드_커뮤니티 랭킹
+<img src="https://github.com/user-attachments/assets/2d6bd6f3-2620-4782-9958-2451f397453d" width="300"><br>
+활동 대시보드_커뮤니티 랭킹<br>
+
 ![image](https://github.com/user-attachments/assets/b47ad1d2-fbc3-4e5f-b627-0c9b6c0d3c44)<br>
 활동 대시보드_커뮤니티 랭킹_나의 랭킹 (하위페이지)
 
@@ -158,12 +161,12 @@
 
 ✅ **나의 활동 모아보기**를 통한 효율적인 히스토리 조회
 
-![image](https://github.com/user-attachments/assets/e4f3e9b2-a94b-490d-b9bd-48f350f2cabd)
+![image](https://github.com/user-attachments/assets/e4f3e9b2-a94b-490d-b9bd-48f350f2cabd)<br>
 마이페이지 우하단에 나의 활동 삽입
 
 - 기존 데보션의 나의 활동은 두가지 측면에서 사용의 **불편함이 존재**
 
-![image](https://github.com/user-attachments/assets/68dcc31c-fc28-463f-b840-da4da978c441)
+<img src="https://github.com/user-attachments/assets/68dcc31c-fc28-463f-b840-da4da978c441" width="300"><br>
 현재 앱에서만 조회 가능한 나의 활동 화면
 
 1. 앱에서만 조회 가능하며, **웹에서는 조회할 수 없음**
@@ -232,7 +235,7 @@
 
 ### 1. 나의 정보
 
-![image](https://github.com/user-attachments/assets/29317ebb-7751-4049-98db-ae1a8c761d5b)<br>
+<img src="https://github.com/user-attachments/assets/29317ebb-7751-4049-98db-ae1a8c761d5b" width="300"><br>
 
 나의 정보
 
@@ -255,8 +258,7 @@
 
 
 ### 2. 배지
-
-![image](https://github.com/user-attachments/assets/ac8e3736-5629-4612-abbc-50f5e7290bd9)<br>
+<img src="https://github.com/user-attachments/assets/ac8e3736-5629-4612-abbc-50f5e7290bd9" width="300"><br>
 
 배지<br>
 
@@ -311,8 +313,7 @@
 
 
 ## 3. 마일리지
-
-![image](https://github.com/user-attachments/assets/2c17832c-4e98-464b-8564-f2bd2b270462)
+<img src="https://github.com/user-attachments/assets/2c17832c-4e98-464b-8564-f2bd2b270462" width="300"> <br>
 
 마일리지
 
