@@ -17,18 +17,18 @@
 ### 💫인사이트
 
 	💡 웹의 UI/UX 개선을 통하여 웹 사용자의 유입량을 증가
-사용자가 접속한 디바이스를 분류한 결과, Devocean은 웹 접속이 모바일 접속과 비교하여 약 5배가 높습니다. Devocean은 경쟁사 중 유일하게 모바일 앱 서비스를 제공하고 있으나, 서비스 사용자의 특성을 고려하여 웹의 사용자 편의성을 증대시킬 필요가 있습니다. 
+사용자가 접속한 디바이스를 분류한 결과, Devocean은 웹 접속이 모바일 접속과 비교하여 약 5배가 높습니다. Devocean은 경쟁사 중 유일하게 모바일 앱 서비스를 제공하고 있으나, 서비스 사용자의 특성을 고려하여 웹의 사용자 편의성을 증대시킬 필요가 있습니다.
 
-따라서, 구체적으로 웹의 마이페이지 개선을 통해 사용자 편의성을 증대시켜 웹 사용자의 유입량을 증가시키고자 합니다. 
+따라서, 구체적으로 웹의 마이페이지 개선을 통해 사용자 편의성을 증대시켜 웹 사용자의 유입량을 증가시키고자 합니다.
 
 	💡 마이페이지를 개선하고 게이미피케이션 요소를 고도화하여 사용자의 활동량을 증가
-경쟁사와 비교한 결과, Devocean만의 차별성은 내부 사용자뿐만 아니라 외부 사용자 간의 커뮤니티를 활성화하기 위한 목적으로 마이페이지가 존재하며 배지 시스템과 같은 게이미피케이션 요소가 있다는 것입니다. 
+경쟁사와 비교한 결과, Devocean만의 차별성은 내부 사용자뿐만 아니라 외부 사용자 간의 커뮤니티를 활성화하기 위한 목적으로 마이페이지가 존재하며 배지 시스템과 같은 게이미피케이션 요소가 있다는 것입니다.
 
-사용자의 편의성을 고려하여 마이페이지를 개선하고 배지 시스템 외의 랭킹, 활동 대시보드와 같은 게이피케이션 요소를 추가하여 외부 사용자의 활동량을 증가시킬 수 있습니다. 
+사용자의 편의성을 고려하여 마이페이지를 개선하고 배지 시스템 외의 랭킹, 활동 대시보드와 같은 게이피케이션 요소를 추가하여 외부 사용자의 활동량을 증가시킬 수 있습니다.
 
 ### 📍Positioning Map
 
-![image](https://github.com/user-attachments/assets/e3973ec7-c44e-4b13-9c16-c2e887cd34ef)
+![image](https://github.com/user-attachments/assets/4e7d6712-96f5-4bb3-bf51-7abe02f81237)
 아래의 세 가지를 통하여 ‘사용자의 자발적인 참여를 유도하는’ 서비스로 포지셔닝 하고자 합니다.
 
 1. 활동 대시보드 추가
@@ -45,7 +45,7 @@
 
 ![image](https://github.com/user-attachments/assets/73ab4c12-7935-4177-8883-dbec234810b0)<br>
 마이페이지 우상단에 활동 대시보드 삽입
-	
+
 - 활동 대시보드에 들어가는 커뮤니티 활동 캘린더, 이번달 읽은 블로그, 커뮤니티 랭킹은 **월간 데이터를 한눈에 조회**할 수 있도록 함
 - 대시보드의 각 요소는 **월간 활동을 다각도로 분석**하며, 이를 통해 효과적인 활동 동기부여를 유도함
 
@@ -60,7 +60,7 @@
 
 **→ 활동의 질, 활동의 양, 활동 카테고리를 대시보드를 활용해 한눈에 시각화**
 
-## 1. 커뮤니티 활동 캘린더<br>
+### 1. 커뮤니티 활동 캘린더<br>
 ![image](https://github.com/user-attachments/assets/246f746e-5994-4c0d-9c4b-bc014bf2f9c2)<br>
 활동 대시보드_커뮤니티 활동 캘린더
 
@@ -87,11 +87,11 @@
 
 📌 [Reference](https://acidic-buffer-cde.notion.site/Reference-30c2453394c14f66b0eb27990232ec37?pvs=4)
 
-## 2. 이번달 읽은 블로그 <br>
+### 2. 이번달 읽은 블로그 <br>
 ![image](https://github.com/user-attachments/assets/6b81c4ee-09d5-4836-8610-c0ffda99bd1b)<br>
 활동 대시보드_이번 달 읽은 블로그
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 사용자가 한 달간 읽은 **블로그 게시물 수**와 **카테고리 종류**를 보여주는 화면
 
@@ -104,21 +104,21 @@
 
 📌 **필요 이유**
 
-- **대시보드 활동 중 유일하게 Tech의 블로그 활동 현황을 표시함.** 
-(일일미션과 랭킹은 커뮤니티 활동을 기준으로 함)
+- **대시보드 활동 중 유일하게 Tech의 블로그 활동 현황을 표시함.**
+  (일일미션과 랭킹은 커뮤니티 활동을 기준으로 함)
 - 전문적인 지식을 SK 내외부로 공유하고, 소통하는 개발문화를 추구하는 **데보션의 행동원리를 위해서**는 높은 퀄리티의 블로그 활동을 활성화해야 함.
 
 📌 **기대효과**
 
 - 사용자가 자신의 활동량에서 더 나아가 **데보션에서 어떤 게시글을 읽고 있는 지** 실시간으로 조회할 수 있도록 함
 
-## 3. 커뮤니티 랭킹<br>
+### 3. 커뮤니티 랭킹<br>
 ![image](https://github.com/user-attachments/assets/2d6bd6f3-2620-4782-9958-2451f397453d)<br>
 활동 대시보드_커뮤니티 랭킹
-![image](https://github.com/user-attachments/assets/b47ad1d2-fbc3-4e5f-b627-0c9b6c0d3c44)
+![image](https://github.com/user-attachments/assets/b47ad1d2-fbc3-4e5f-b627-0c9b6c0d3c44)<br>
 활동 대시보드_커뮤니티 랭킹_나의 랭킹 (하위페이지)
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 사용자의 게시물이 **한달 동안 다른 사용자들로부터 받은 반응 (조회수, 받은 좋아요, 저장된 횟수)** 을 기준으로 점수를 산정하여 전체 유저 중에서 **사용자의 백분위**를 보여주는 그래프
 
@@ -154,7 +154,7 @@
 
 이번달 읽은 블로그가 사용자의 단순 활동량을 늘렸다면, 랭킹은 사용자가 자신의 활동을 **다른 사용자들로부터 평가 받기 때문**에 **사용자가 질 높은 게시물을 작성하도록 자연스럽게 유도**한다
 
-  # 💻 나의 활동
+# 💻 나의 활동
 
 ✅ **나의 활동 모아보기**를 통한 효율적인 히스토리 조회
 
@@ -162,13 +162,13 @@
 마이페이지 우하단에 나의 활동 삽입
 
 - 기존 데보션의 나의 활동은 두가지 측면에서 사용의 **불편함이 존재**
-    
+
 ![image](https://github.com/user-attachments/assets/68dcc31c-fc28-463f-b840-da4da978c441)
-    현재 앱에서만 조회 가능한 나의 활동 화면
-    
-   1. 앱에서만 조회 가능하며, **웹에서는 조회할 수 없음**
-   2. 커뮤니티를 클릭하면 게시물로 이동하지만, 댓글을 클릭하면 남긴 댓글 리스트만 확인 가능한 등 어느 게시물에 남긴 댓글인지 확인하기 어렵다는 
-    → **로직 상의 불편함 존재.** 
+현재 앱에서만 조회 가능한 나의 활동 화면
+
+1. 앱에서만 조회 가능하며, **웹에서는 조회할 수 없음**
+2. 커뮤니티를 클릭하면 게시물로 이동하지만, 댓글을 클릭하면 남긴 댓글 리스트만 확인 가능한 등 어느 게시물에 남긴 댓글인지 확인하기 어렵다는
+   → **로직 상의 불편함 존재.**
 - **개선된 로직**으로 **사용자의 히스토리를 편하게** 모아볼 수 있는 기능을 필요로 함
 
 
@@ -180,7 +180,7 @@
 ![image](https://github.com/user-attachments/assets/6a5ede6b-4b7b-4952-b8bb-e5018d911f11)<br>
 나의 활동_전체보기
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 사용자의 **활동 히스토리**를 **통일된 로직**으로 보기 편하게 제공하는 화면
 
@@ -209,38 +209,34 @@
 
 
 ✅ 기존의 **나의 정보를 개선**, **새로운 배지 시스템** 삽입
- 
 
-![마이페이지 좌측에 나의 정보 삽입](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/c3f863d5-7383-48a2-99d3-b356fd1e2ed0/image.png)
 
+![image](https://github.com/user-attachments/assets/3842cbba-371a-4da2-b5f1-a6adaf6593a8)
 마이페이지 좌측에 나의 정보 삽입
 
 - 기존에 가로로 길게 배치되어 있던 나의 정보를 좌측의 프로필 이미지 및 닉네임과 합쳐, **정보의 유사성**을 기준으로 묶음
 
-![현재 웹에서 확인 가능한 나의 정보 화면](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/8af51714-417d-471a-b770-844a9f32b95d/image.png)
+![image](https://github.com/user-attachments/assets/525e7ea8-31e3-4b84-a771-325c08fd7e3b)
 
 현재 웹에서 확인 가능한 나의 정보 화면
 
-- 불필요한 마일리지 정보는 간소화시켜 표시하고, 
-**마일리지 내역보기 →  쇼핑하러가기**로 마일리지를 활용해 할 수 있는 행위를 구체적으로 설명하는 방식으로 **UX Writing 개선**
+- 불필요한 마일리지 정보는 간소화시켜 표시하고,
+  **마일리지 내역보기 →  쇼핑하러가기**로 마일리지를 활용해 할 수 있는 행위를 구체적으로 설명하는 방식으로 **UX Writing 개선**
 
-![현재 마일리지 정보 표시 화면](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/5103f4fd-4531-4f2d-952b-edffac49800e/image.png)
+![image](https://github.com/user-attachments/assets/6e0f2089-614a-41e2-94d6-55dba6ef2677)<br>
 
 현재 마일리지 정보 표시 화면
 
 - 앱에서만 확인 가능하던 **기존 배지의 로직을 개선**하고, **시스템은 간소화**하되 **차등성은 강화**한 배지 도입
-***+ 사용자의 프로필 이미지가 삽입되는 곳이라면 어디든 우측에 배지 이미지가 삽입되도록 함***
-</aside>
+  ***+ 사용자의 프로필 이미지가 삽입되는 곳이라면 어디든 우측에 배지 이미지가 삽입되도록 함***
 
-<aside>
+### 1. 나의 정보
 
-1. 나의 정보
-
-![나의 정보](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/90a6c55f-46c4-43b5-bf36-7a19424b6ba4/image.png)
+![image](https://github.com/user-attachments/assets/29317ebb-7751-4049-98db-ae1a8c761d5b)<br>
 
 나의 정보
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 기존의 **가로**로 펼쳐져 있던 나의 정보를 좌측의 프로필 이미지와 닉네임, 메일 하단에 **세로**로 합쳐 **정보간 통일성을 고려해 변경**한 화면
 
@@ -251,38 +247,35 @@
 | 0 | 나의 정보 | 기존 나의 정보를 새롭게 구조화 |
 | 0.1 | 회원정보 관리 | 사용자 본인이 남들에게 보여지는 **자신의 프로필 페이지를 확인할 수 있도록 함** |
 | 0.2 | 뱃지 이미지 | 사용자의 프로필 이미지 우하단에 뱃지 이미지가 보이게 함 |
-| 0.3 | 회원 정보 관리 | 기존의 나의 정보에서 가로로 펼쳐져 있던 정보를 모아 세로로 구조화
-
-**- 소속, 활동 분야, 한줄 소개, Github 링크, Linked In 링크** |
+| 0.3 | 회원 정보 관리 | 기존의 나의 정보에서 가로로 펼쳐져 있던 정보를 모아 세로로 구조화<br><br> **- 소속, 활동 분야, 한줄 소개, Github 링크, Linked In 링크** |
 
 📌 **기대효과**
 
 - **정보의 유사성을 기준**으로 묶인 새로운 프로필 화면으로 **편안한 UI 경험 제공**
-</aside>
 
-<aside>
 
-1. 배지
+### 2. 배지
 
-![배지](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/dec75a8f-9401-4226-a796-51a5255977c1/image.png)
+![image](https://github.com/user-attachments/assets/ac8e3736-5629-4612-abbc-50f5e7290bd9)<br>
 
-배지
+배지<br>
 
-![배지 종류 및 시스템](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/a274a61e-4505-4560-ae5f-91a26322cf69/image.png)
+![image](https://github.com/user-attachments/assets/eadae9f1-36fd-4e26-b112-bf4dcc8b04ab)<br>
 
-배지 종류 및 시스템
 
-![배지_전체보기 (하위페이지)](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/d800c54a-c8c1-4efd-b5f8-58c8c25e4b48/image.png)
+배지 종류 및 시스템<br>
+
+![image](https://github.com/user-attachments/assets/d96cb275-7f5b-4142-a58f-7fbd5d9d7d00)<br>
 
 배지_전체보기 (하위페이지)
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 간소화하되, **차등성을 강화**한 배지 시스템 구축, **좌측 나의 정보 구역**에 시각화
 
-📌 **기능 상세
+📌 **기능 상세**
 
-<배지>**
+**<배지>**
 
 |  | 기능 명 | 기능 상세 |
 | --- | --- | --- |
@@ -294,18 +287,9 @@
 
 **<배지 종류 및 시스템>**
 
-|  | 기능 명 | 기능 상세 |
-| --- | --- | --- |
-| 1 | 배지 종류 및 시스템 | <배지 종류>
-좌측에서부터 순서대로 다섯 개의 배지가 존재. 
-
-**- 뉴비탐험가, 활동챌린저, 개발전문가, 커넥션 메이커, 마스터
-
-커뮤니티 활동 (좋아요, 댓글, 게시물)**을 통해 **1년동안** 순서대로 다섯 개의 배지를 획득하는 것을 목표로 활동
-
-1년이 지나면 배지는 처음으로 리셋, 이전 년도의 배지를 전체
-
-<배지 시스템> |
+|  | 기능 명 | 기능 상세                                                                                                                                                                                                                            |
+| --- | --- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | 배지 종류 및 시스템 | <배지 종류><br> 좌측에서부터 순서대로 다섯 개의 배지가 존재. <br><br> **- 뉴비탐험가, 활동챌린저, 개발전문가, 커넥션 메이커, 마스터**<br><br> **커뮤니티 활동 (좋아요, 댓글, 게시물)** 을 통해 **1년동안** 순서대로 다섯 개의 배지를 획득하는 것을 목표로 활동 <br><br>1년이 지나면 배지는 처음으로 리셋, 이전 년도의 배지를 전체<br><br><배지 시스템> |
 
 **<배지_전체보기> (하위페이지)**
 
@@ -324,17 +308,15 @@
 
 - **간소화된 배지시스템**이지만, **차등성을 강화**한 직관적인 배지로 사용자의 수준을 한 눈에 알 수 있게 함
 - 사용자들의 프로필 이미지 옆에 **상시 표시되는 배지 이미지**를 통해 동기부여
-</aside>
 
-<aside>
 
-1. 마일리지
+## 3. 마일리지
 
-![마일리지](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/5307885d-64ae-42f3-a8a5-e330c3132721/image.png)
+![image](https://github.com/user-attachments/assets/2c17832c-4e98-464b-8564-f2bd2b270462)
 
 마일리지
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 불필요한 마일리지 정보를 없애 **간소화**하고, **의도성을 담은 UX Writing**으로 개선한 마일리지 화면
 
@@ -344,8 +326,7 @@
 | --- | --- | --- |
 | 0 | 마일리지 | **‘내 마일리지’** 와 **‘방문 수’** 만 나타내는 간소화된 형태의 배치 |
 | 0.1 | 인포메이션 | 마일리지 획득 기준을 설명하는 인포메이션을 **마이페이지에서 바로 확인**할 수 있도록 개선 |
-| 0.2 | 쇼핑하러가기
- | **마일리지 내역보기 → 쇼핑하러가기**로 텍스트 변경 |
+| 0.2 | 쇼핑하러가기| **마일리지 내역보기 → 쇼핑하러가기**로 텍스트 변경 |
 | 0.3 | 마일리지 (P) | 사용자의 사용가능한 마일리지 포인트를 나타냄 |
 | 0.4 | 방문 수 | 사용자가 로그인하여 홈페이지에 접속한 횟수를 보여줌 |
 
@@ -353,51 +334,39 @@
 
 - 마일리지를 통해 할 수 있는 **행위를 연상시키는 새로운 UX Writing**으로 개선
 - 불필요한 정보 제거를 통해 **간소화된 UI** 제공
-</aside>
 
 # 3️⃣ 추가 과제 (Thanks To 페이지 개발)
+✅ **산재되어 있던 프로젝트 결과물을 한번에** 모아볼 수 있는 페이지 개발
 
-<aside>
-✅
-
-> **산재되어 있던 프로젝트 결과물을 한번에** 모아볼 수 있는 페이지 개발
-> 
-
-![Thanks To의 About 페이지
-(데보션 소개, 파트너십, 교육 후기 등을 조회할 수 있는 페이지)](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/a05a114b-08e2-424f-89bc-9e1c594a1450/image.png)
+![image](https://github.com/user-attachments/assets/bf3b8c55-6f97-4b68-9047-262936ae260f)<br>
 
 Thanks To의 About 페이지
 (데보션 소개, 파트너십, 교육 후기 등을 조회할 수 있는 페이지)
 
-![Thanks To의 Project 페이지 
-(프로젝트 결과물을 조회할 수 있는 페이지)](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/b555a6a0-9d80-48b4-96c7-79a2e8274b0e/image.png)
+![image](https://github.com/user-attachments/assets/3a21e3e4-b153-494f-9825-a676ed1f12e8)<br>
 
-Thanks To의 Project 페이지 
+Thanks To의 Project 페이지
 (프로젝트 결과물을 조회할 수 있는 페이지)
 
 - 기존의 프로젝트 결과물은 **한 곳에서 모아볼 수 없고**, **홈페이지 여기저기에 산재**되어 있다는 문제가 있음.
 
-![현재 데보션 영 프로젝트 결과물의 위치 (스토리 → 데보션 영 → 개발과제 or 전체)
-](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/f34890f8-4887-40c9-9f0e-bb235dbc777a/image.png)
+![image](https://github.com/user-attachments/assets/de22557d-9038-4a6e-a666-3364c80c2437)<br>
 
-현재 데보션 영 프로젝트 결과물의 위치 (스토리 → 데보션 영 → 개발과제 or 전체)
+현재 데보션 영 프로젝트 결과물의 위치 (스토리 → 데보션 영 → 개발과제 or 전체)<br>
+![image](https://github.com/user-attachments/assets/fd617832-cebf-4a41-8dd7-7623595c2a34)<br>
 
-![현재 OpenLab 프로젝트 결과물의 위치 (Tech → OpenLab)](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/3d201759-0780-4239-9c27-391a3ef79045/image.png)
-
-현재 OpenLab 프로젝트 결과물의 위치 (Tech → OpenLab)
+현재 OpenLab 프로젝트 결과물의 위치 (Tech → OpenLab)<br>
 
 - 프로젝트 결과물이 산재되어 있는만큼, **결과물 조회가 프로그램 공유 및 지원까지 이어지기 어려움. 지원을 유도할 수 있는 CTA 버튼 삽입**
-</aside>
 
-<aside>
 
-1. About 탭
+## 1. About 탭
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/28655e8e-f328-423a-92d1-91ef994aaea0/image.png)
+![image](https://github.com/user-attachments/assets/ac223b98-f224-4f23-9d2c-a0b3569ca092)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/7dc37357-5452-4c6d-9caf-962910c38878/image.png)
+![image](https://github.com/user-attachments/assets/3deead0a-d013-4011-bc89-2c84823bcfcf)
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 데보션 프로그램에 대한 **소개, 파트너쉽 업체 소개, 프로그램 소개, 활동후기, 지원하기**를 모아놓은 탭
 
@@ -416,25 +385,24 @@ Thanks To의 Project 페이지
 
 - 통일된 로직으로 프로젝트 결과물을 모아보기 **편한 UI 환경 제공**
 - 프로그램 소개 외에도 파트너사, 활동 후기, 바로 지원하기 등의 추가 소개와 기능을 통해 **프로그램 자체의 활성화 기여**
-</aside>
 
-<aside>
 
-1. Project 탭
+## 2. Project 탭
 
-![프로젝트 탭](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/da766220-38cf-4312-b9eb-be0b829c06a5/image.png)
+![image](https://github.com/user-attachments/assets/6648c73b-51a8-424a-b11e-1fd9a1710e9b)
+
 
 프로젝트 탭
 
-![프로젝트 탭_데보션영 선택](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/7726cd0a-c9d1-4ce9-aa0c-90b9bdabf4fd/image.png)
+![image](https://github.com/user-attachments/assets/2e06c967-1f78-4860-983b-2ed664e0756d)
 
 프로젝트 탭_데보션영 선택
 
-![프로젝트 탭_데보션 영 선택_프로젝트 선택](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/3ef18763-0690-45aa-b3d1-2907ee8141c8/image.png)
+![image](https://github.com/user-attachments/assets/b5e82d67-e85f-46e3-b3ea-ff45dbae5d81)
 
 프로젝트 탭_데보션 영 선택_프로젝트 선택
 
-📌 **기능 정의** 
+📌 **기능 정의**
 
 데보션 영과 OpenLab 의 결과물을 모아놓은 페이지
 
@@ -477,7 +445,7 @@ Thanks To의 Project 페이지
 
 # 4️⃣ IA (정보 구조도)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/bd5ffbf0-5101-4bbf-b277-d2ad0e0b0665/image.png)
+![image](https://github.com/user-attachments/assets/834b7f73-0860-4ae2-98f9-3c5b0831b2c3)
 
 ---
 
@@ -515,39 +483,40 @@ Thanks To의 Project 페이지
 - 이에 따라 리뉴얼 배지 획득 성공 시 배지 알림 전송
 - 또한 년도별 최초 로그인 시 배지 지급 기능 추가
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/3cc0bc80-af02-4f14-808a-1b0b8d094d44/image.png)
-
+![image](https://github.com/user-attachments/assets/31251864-0165-409b-8010-990b38bbf5b2)
 ### 기존 API 룰 준수
 
 - 기존 API 구현 방식에서 ApiBase를 상속받아 Controller 구현 및 에러 처리 진행
 - 이러한 룰을 따라서 구현 및 에러 처리 진행
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/36514b0d-8441-4c38-a105-c4011efe9355/image.png)
+![image](https://github.com/user-attachments/assets/f0599aac-0535-4a9f-bc21-f9c0217b6a65)
+
 
 ### 응답에 대해 공통 로직 메서드 추출
 
 - controller 단에서 계속해서 공통되는 응답 VO 생성에 대해 메서드 추출을 통한 가독성 향상
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/c40f7868-13e2-4e85-ba0c-758004d081ed/image.png)
+![image](https://github.com/user-attachments/assets/fea2989f-722b-4d22-8f27-dd52be95bef7)
 
 ### 정적 팩토리 메서드 도입을 통한 가독성 향상
 
 - VO 별 정적 팩토리 메서드 도입을 통한 가독성 향상
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/f6c94bf7-14f6-444b-8956-15cb9a8caa75/image.png)
+![image](https://github.com/user-attachments/assets/811c6660-4d48-4233-a987-03a7cd30ab98)
+
 
 ### 인터페이스를 통한 확장성 고려
 
 - Service 단에서 interface 도입을 통해 확장성 고려
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/a8706fb2-974c-49b8-9829-a2947167f0ec/image.png)
+![image](https://github.com/user-attachments/assets/07015b1e-8967-4c0f-b7e5-ef7cdc50f857)
 
 ### Stream API 적극 도입
 
 - Stream API를 도입하여 가독성 향상
 - Enum 타입 활용을 통한 매직넘버 치환
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9648e7f4-81d0-4183-91bb-9dd64acf973a/c8fcd12e-9f37-4d73-91cd-813a92023d85/image.png)
+![image](https://github.com/user-attachments/assets/31cfedeb-2582-482b-92ec-dfce4387c846)
 
 ### 책임 분리를 통한 확장성 고려
 
@@ -556,7 +525,7 @@ Thanks To의 Project 페이지
 
 ## 📌 추가 기본 세팅
 
-```kotlin
+```mysql
 CREATE TABLE `tb_board_view`
 (
     `id`             bigint(20) unsigned NOT NULL AUTO_INCREMENT,
