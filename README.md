@@ -49,7 +49,7 @@
 - 활동 대시보드에 들어가는 커뮤니티 활동 캘린더, 이번달 읽은 블로그, 커뮤니티 랭킹은 **월간 데이터를 한눈에 조회**할 수 있도록 함
 - 대시보드의 각 요소는 **월간 활동을 다각도로 분석**하며, 이를 통해 효과적인 활동 동기부여를 유도함
 
-![image](https://github.com/user-attachments/assets/af0e4513-717c-4d4d-ad2b-7455d85a43a4)
+![image](https://github.com/user-attachments/assets/af0e4513-717c-4d4d-ad2b-7455d85a43a4)<br>
 활동 대시보드의 세 가지 요소
 
 |  | **분석 요소** | **기대효과** |
